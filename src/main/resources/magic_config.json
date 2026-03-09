@@ -1,0 +1,5 @@
+{
+  "spells": [],
+  "mana": {"base":100, "regenPerSecond":5},
+  "cooldowns": {}
+}
